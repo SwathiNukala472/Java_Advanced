@@ -1,5 +1,4 @@
 package com.test.java8;
-
 import java.util.Collection;
 import java.util.Collections;
 import java.util.TreeSet;
